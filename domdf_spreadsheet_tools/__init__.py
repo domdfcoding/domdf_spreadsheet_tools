@@ -2,7 +2,7 @@
 #
 #  domdf_spreadsheet_tools.py
 """
-Tools for creating and formatting spreadsheets with Python and OpenPyXL
+Tools for creating and formatting spreadsheets with Python and OpenPyXL.
 """
 #
 #  Copyright 2018-2020 Dominic Davis-Foster <dominic@davis-foster.co.uk>
@@ -57,7 +57,7 @@ def append_to_xlsx(
 		encoding: str = "UTF-8"
 		) -> None:
 	"""
-	Add CSV file to xlsx file as a new worksheet
+	Add CSV file to xlsx file as a new worksheet.
 
 	:param csv_input_file: filepath of CSV file.
 	:param xlsx_output_file: filepath of xlsx file.
@@ -194,7 +194,7 @@ def make_column_property_dict(
 		length: int = 1,
 		):
 	"""
-	Generate property lists from integer values
+	Generate property lists from integer values.
 
 	:param indict: Property values to add to the property dict.
 	:param outdict: Dictionary of properties for each column letter.
