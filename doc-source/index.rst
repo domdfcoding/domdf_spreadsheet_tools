@@ -59,8 +59,8 @@ domdf_spreadsheet_tools
 		:workflow: mypy
 		:alt: mypy status
 
-	.. |requires| image:: https://dependency-dash.herokuapp.com/github/domdfcoding/domdf_spreadsheet_tools/badge.svg
-		:target: https://dependency-dash.herokuapp.com/github/domdfcoding/domdf_spreadsheet_tools/
+	.. |requires| image:: https://dependency-dash.repo-helper.uk/github/domdfcoding/domdf_spreadsheet_tools/badge.svg
+		:target: https://dependency-dash.repo-helper.uk/github/domdfcoding/domdf_spreadsheet_tools/
 		:alt: Requirements Status
 
 	.. |codefactor| codefactor-shield::
