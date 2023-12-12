@@ -22,7 +22,7 @@ file = "LICENSE"
 Homepage = "https://github.com/domdfcoding/domdf_spreadsheet_tools"
 "Issue Tracker" = "https://github.com/domdfcoding/domdf_spreadsheet_tools/issues"
 "Source Code" = "https://github.com/domdfcoding/domdf_spreadsheet_tools"
-Documentation = "https://domdf_spreadsheet_tools.readthedocs.io/en/latest"
+Documentation = "https://domdf-spreadsheet-tools.readthedocs.io/en/latest"
 
 [tool.importcheck]
 always = [ "domdf_spreadsheet_tools",]
