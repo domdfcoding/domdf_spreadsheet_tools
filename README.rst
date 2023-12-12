@@ -28,8 +28,8 @@ domdf_spreadsheet_tools
 	* - Other
 	  - |license| |language| |requires|
 
-.. |docs| image:: https://img.shields.io/readthedocs/domdf_spreadsheet_tools/latest?logo=read-the-docs
-	:target: https://domdf_spreadsheet_tools.readthedocs.io/en/latest
+.. |docs| image:: https://img.shields.io/readthedocs/domdf-spreadsheet-tools/latest?logo=read-the-docs
+	:target: https://domdf-spreadsheet-tools.readthedocs.io/en/latest
 	:alt: Documentation Build Status
 
 .. |docs_check| image:: https://github.com/domdfcoding/domdf_spreadsheet_tools/workflows/Docs%20Check/badge.svg
@@ -103,7 +103,7 @@ domdf_spreadsheet_tools
 	:target: https://github.com/domdfcoding/domdf_spreadsheet_tools/commit/master
 	:alt: GitHub last commit
 
-.. |maintained| image:: https://img.shields.io/maintenance/yes/2022
+.. |maintained| image:: https://img.shields.io/maintenance/yes/2023
 	:alt: Maintenance
 
 .. |pypi-downloads| image:: https://img.shields.io/pypi/dm/domdf_spreadsheet_tools
