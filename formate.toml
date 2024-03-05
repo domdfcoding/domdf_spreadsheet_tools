@@ -32,4 +32,4 @@ use_parentheses = true
 remove_redundant_aliases = true
 default_section = "THIRDPARTY"
 known_third_party = [ "domdf_python_tools", "github", "openpyxl", "requests",]
-known_first_party = "domdf_spreadsheet_tools"
+known_first_party = [ "domdf_spreadsheet_tools",]
