@@ -26,11 +26,6 @@ Documentation = "https://domdf-spreadsheet-tools.readthedocs.io/en/latest"
 [tool.importcheck]
 always = [ "domdf_spreadsheet_tools",]
 
-[tool.setuptools]
-zip-safe = false
-include-package-data = true
-platforms = [ "Windows", "macOS", "Linux",]
-
 [tool.mkrecipe]
 conda-channels = [ "conda-forge", "domdfcoding",]
 extras = "all"
