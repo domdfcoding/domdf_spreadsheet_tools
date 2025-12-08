@@ -32,10 +32,10 @@ from typing import Any, Dict, List, Mapping, Optional, Union
 
 # 3rd party
 from domdf_python_tools.typing import PathLike
-from openpyxl import Workbook, load_workbook  # type: ignore[import]
-from openpyxl.styles import Alignment  # type: ignore[import]
-from openpyxl.utils import get_column_letter  # type: ignore[import]
-from openpyxl.worksheet.worksheet import Worksheet  # type: ignore[import]
+from openpyxl import Workbook, load_workbook  # type: ignore[import-untyped]
+from openpyxl.styles import Alignment  # type: ignore[import-untyped]
+from openpyxl.utils import get_column_letter  # type: ignore[import-untyped]
+from openpyxl.worksheet.worksheet import Worksheet  # type: ignore[import-untyped]
 
 __author__ = "Dominic Davis-Foster"
 __copyright__ = "Copyright 2018-2020 Dominic Davis-Foster"
