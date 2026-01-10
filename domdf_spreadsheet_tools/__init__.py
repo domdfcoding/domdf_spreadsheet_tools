@@ -53,7 +53,7 @@ def append_to_xlsx(
 		separator: str = ',',
 		overwrite: bool = False,
 		to_floats: bool = False,
-		encoding: str = "UTF-8"
+		encoding: str = "UTF-8",
 		) -> None:
 	"""
 	Add CSV file to xlsx file as a new worksheet.
