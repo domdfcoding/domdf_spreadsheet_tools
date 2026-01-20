@@ -127,6 +127,7 @@ Installation
 
 .. installation:: domdf_spreadsheet_tools
 	:pypi:
+	:pypi-name: domdf-spreadsheet-tools
 	:github:
 	:anaconda:
 	:conda-channels: conda-forge, domdfcoding
