@@ -124,7 +124,7 @@ To install with ``pip``:
 
 .. code-block:: bash
 
-	$ python -m pip install domdf_spreadsheet_tools
+	$ python -m pip install domdf-spreadsheet-tools
 
 To install with ``conda``:
 
