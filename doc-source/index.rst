@@ -67,22 +67,22 @@ domdf_spreadsheet_tools
 		:alt: CodeFactor Grade
 
 	.. |pypi-version| pypi-shield::
-		:project: domdf_spreadsheet_tools
+		:project: domdf-spreadsheet-tools
 		:version:
 		:alt: PyPI - Package Version
 
 	.. |supported-versions| pypi-shield::
-		:project: domdf_spreadsheet_tools
+		:project: domdf-spreadsheet-tools
 		:py-versions:
 		:alt: PyPI - Supported Python Versions
 
 	.. |supported-implementations| pypi-shield::
-		:project: domdf_spreadsheet_tools
+		:project: domdf-spreadsheet-tools
 		:implementations:
 		:alt: PyPI - Supported Implementations
 
 	.. |wheel| pypi-shield::
-		:project: domdf_spreadsheet_tools
+		:project: domdf-spreadsheet-tools
 		:wheel:
 		:alt: PyPI - Wheel
 
@@ -114,7 +114,7 @@ domdf_spreadsheet_tools
 		:alt: Maintenance
 
 	.. |pypi-downloads| pypi-shield::
-		:project: domdf_spreadsheet_tools
+		:project: domdf-spreadsheet-tools
 		:downloads: month
 		:alt: PyPI - Downloads
 
