@@ -7,4 +7,4 @@ License
 .. license-info:: LGPL-3.0
 
 .. license::
-	:py: domdf_spreadsheet_tools
+	:py: domdf-spreadsheet-tools

@@ -64,20 +64,20 @@ domdf_spreadsheet_tools
 	:target: https://www.codefactor.io/repository/github/domdfcoding/domdf_spreadsheet_tools
 	:alt: CodeFactor Grade
 
-.. |pypi-version| image:: https://img.shields.io/pypi/v/domdf_spreadsheet_tools
-	:target: https://pypi.org/project/domdf_spreadsheet_tools/
+.. |pypi-version| image:: https://img.shields.io/pypi/v/domdf-spreadsheet-tools
+	:target: https://pypi.org/project/domdf-spreadsheet-tools/
 	:alt: PyPI - Package Version
 
-.. |supported-versions| image:: https://img.shields.io/pypi/pyversions/domdf_spreadsheet_tools?logo=python&logoColor=white
-	:target: https://pypi.org/project/domdf_spreadsheet_tools/
+.. |supported-versions| image:: https://img.shields.io/pypi/pyversions/domdf-spreadsheet-tools?logo=python&logoColor=white
+	:target: https://pypi.org/project/domdf-spreadsheet-tools/
 	:alt: PyPI - Supported Python Versions
 
-.. |supported-implementations| image:: https://img.shields.io/pypi/implementation/domdf_spreadsheet_tools
-	:target: https://pypi.org/project/domdf_spreadsheet_tools/
+.. |supported-implementations| image:: https://img.shields.io/pypi/implementation/domdf-spreadsheet-tools
+	:target: https://pypi.org/project/domdf-spreadsheet-tools/
 	:alt: PyPI - Supported Implementations
 
-.. |wheel| image:: https://img.shields.io/pypi/wheel/domdf_spreadsheet_tools
-	:target: https://pypi.org/project/domdf_spreadsheet_tools/
+.. |wheel| image:: https://img.shields.io/pypi/wheel/domdf-spreadsheet-tools
+	:target: https://pypi.org/project/domdf-spreadsheet-tools/
 	:alt: PyPI - Wheel
 
 .. |conda-version| image:: https://img.shields.io/conda/v/domdfcoding/domdf_spreadsheet_tools?logo=anaconda
@@ -106,8 +106,8 @@ domdf_spreadsheet_tools
 .. |maintained| image:: https://img.shields.io/maintenance/yes/2026
 	:alt: Maintenance
 
-.. |pypi-downloads| image:: https://img.shields.io/pypi/dm/domdf_spreadsheet_tools
-	:target: https://pypistats.org/packages/domdf_spreadsheet_tools
+.. |pypi-downloads| image:: https://img.shields.io/pypi/dm/domdf-spreadsheet-tools
+	:target: https://pypistats.org/packages/domdf-spreadsheet-tools
 	:alt: PyPI - Downloads
 
 .. end shields
